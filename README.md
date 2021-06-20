@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ankitj0812
+- 👋 Hi, I’m @ankit
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on 
